@@ -18,6 +18,7 @@
   "homepage": "https://github.com/nkuranhy3/socketio-with-node-and-express#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "mongodb": "^3.0.7",
     "path": "^0.12.7",
     "socket.io": "^2.1.0"
   }
